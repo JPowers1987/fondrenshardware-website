@@ -1,8 +1,8 @@
-version: 1.6.0
+version: 1.7.0
 files:
-  - url: https://github.com/JPowers1987/fondrenshardware-website/releases/download/pos-v1.6.0/Store-POS-Setup-1.6.0.exe
-    sha512: our3xF9GA7/ouOrphh/YTIPf5QMsYFrwtmI+lPqer2NVGpXuLxDi80KqrrvM+MysY6o+AgIu63aPSL0bwh0S+g==
-    size: 124887486
-path: https://github.com/JPowers1987/fondrenshardware-website/releases/download/pos-v1.6.0/Store-POS-Setup-1.6.0.exe
-sha512: our3xF9GA7/ouOrphh/YTIPf5QMsYFrwtmI+lPqer2NVGpXuLxDi80KqrrvM+MysY6o+AgIu63aPSL0bwh0S+g==
-releaseDate: '2026-10-08T16:46:15.771Z'
+  - url: https://github.com/JPowers1987/fondrenshardware-website/releases/download/pos-v1.7.0/Store-POS-Setup-1.7.0.exe
+    sha512: h+6Rt5H5h4h9aUShu++h2NmS0Sv+iCSEn2P07sZMZU1wG/q8At2sE+GjO9LJX1ra+lJG0FEOTN9G2yP4agyOnA==
+    size: 124813080
+path: https://github.com/JPowers1987/fondrenshardware-website/releases/download/pos-v1.7.0/Store-POS-Setup-1.7.0.exe
+sha512: h+6Rt5H5h4h9aUShu++h2NmS0Sv+iCSEn2P07sZMZU1wG/q8At2sE+GjO9LJX1ra+lJG0FEOTN9G2yP4agyOnA==
+releaseDate: '2026-10-09T13:16:02.537Z'
